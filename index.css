@@ -111,16 +111,21 @@ margin:0 24%;
 /*title section*/
 .cta{
   position: relative;
+  text-align:center;
+  text-size-adjust: 50%;
 }
 
-.text, .image{
-  display: inline-block;
+
+
+.texti, .image{
+  display: center;
   text-align: center;
 
 }
 
 .image{
   width: 30%;
+  text-align: center;
 }
 .round{
   border-radius: 50%;
